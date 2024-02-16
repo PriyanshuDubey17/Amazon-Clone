@@ -18,6 +18,10 @@
     
 
 }
+.box-image{
+    background-image: url("/images/box1_image.jpg");
+}
+    
 
 .logo{
     background-image: url("/images/amazon_logo.png");
