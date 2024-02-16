@@ -127,7 +127,7 @@ border: 1.5px solid transparent;
  }
   /* hero section */
   .hero-section{
-    background-image:url('/images/hero_image.jpg');
+    background-image:url('/images/amazon_logo.png');
     background-size: cover;
     height: 300px;
     display: flex;
