@@ -17,11 +17,8 @@
    
     
 
-}
-.box-image{
-    background-image: url("/images/box1_image.jpg");
-}
-    
+} 
+
 
 .logo{
     background-image: url("/images/amazon_logo.png");
@@ -130,10 +127,12 @@ border: 1.5px solid transparent;
      font-weight: 700;
  }
   /* hero section */
+
   .hero-section{
     background-image: url("/images/hero_image.jpg");
     background-size: cover;
     height: 300px;
+    width: 500px;
     display: flex;
     justify-content:center;
     align-items:flex-end;
